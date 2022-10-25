@@ -12,7 +12,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Help Wanted](#help-wanted)
 
 * [Author](#author)
 
@@ -45,16 +44,6 @@ Users should be able to:
 ### What I learned
 
 How to apply my knowledge of CSS grid and gain experience in mobile responsiveness.
-
-### Help Wanted
-
-You will notice the second .card "Jonathan Walters" uses 1fr for its row height where the others are auto-filled so they only take up the height of the container on smaller screen sizes.
-
-Screenshot below.
-
-Can any one help explain why this .card and the .card "Daniel Clifford" with the purple background are using 1fr and not autofill. Suggestions on how to fix this?
-
-![](./HelpWanted.JPG)
 
 ## Author
 
